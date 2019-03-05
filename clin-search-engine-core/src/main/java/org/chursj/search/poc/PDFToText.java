@@ -102,6 +102,8 @@ public class PDFToText {
 					   
 					// - put the initial one on his separate file 
 					
+					
+					
 					outStream.write(new String(out.toByteArray(), Charset.defaultCharset()));
 					outStream.close();
 					pageCounter = pageCounter + 1;
