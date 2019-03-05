@@ -1,0 +1,52 @@
+Page 1 of 4
+7316-2572
+
+Results
+Name MRN DOB Sex
+
+ 
+
+Lab Collection Information
+
+ 
+
+Component Results
+
+Component
+Pathology Surgical (Corrected)
+
+ADDENDUM
+
+Addendum #1
+This addendum is issued to report the result of genetic test.
+The quality for DNA isolated from this tumor specimen was poor. This
+
+sub-optil DNA sample will not be submitted for genome wide SNP array study.
+Submitting another tumor sample for appropriate tests is recommended.
+
+ 
+
+   
+
+Sanger sequencing analysis was performed on the DNA extracted from this tumor
+sample. There was no evidence for V60OE mutation in the exon 15 of the BRAF
+gene. However, the overall sequencing quality wes poor so the mutations at
+the remaining coding regions of this gene and low mosaic changes cannot be
+ruled out.
+
+Molecular profiling with newly launched NGS panel for solid tumor is highly
+recommended to help with differential diagnosis, risk stratification and
+treatment selection.
+
+ 
+
+ 
+
+Complete report by ble on Meditech or Epic
+
+Addendum Signed ___ (signature on file)
+
+FINAL DIAGNCSIS
+
+Page 1 of 4
+

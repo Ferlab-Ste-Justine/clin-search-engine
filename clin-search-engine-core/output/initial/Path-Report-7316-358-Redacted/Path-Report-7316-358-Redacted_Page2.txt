@@ -1,0 +1,70 @@
+ 
+
+ 
+
+ 
+
+=
+
+-SYNOPTIC REPORT {Continued}
++ ____ Additional dimensions: x cm (for fragmented tissue, an aggregate
+size may be given)
++ Cannot be determined (see Comment
+Laterality
+_ Right
+Left
+Bilateral
+
+_X_ Not specified
+Not applicable
+
+Tumor Site (select all that apply) (Note E)
+Skull
+
++ Specify further (eg, frontal, parietal, temporal, occipital), if known:
+
+Dura
+
++ Specify further (eg, cerebral [convexity/lobe, falx, tentorium, sphenoid
+wing, skull base, other], spinal or other), if known:
+___ Leptomeninges
+
++ Specify further (eg, cerebral [convexity/lobel, spinal, or other), if
+known:
+
+_ Brain/cerebrum
+
++ Specify lobe(s) (eg, frontal, temporal, parietal, occipital), if known:
+
+ 
+
+Brain, othe:
+Basal ganglia
+Thalamus
+Hypothalamus
+Pineal
+X_ Cerebellum
+Cerebellopontine angle
+Suprasellar
+Sella
+Other (specify, if known: )
+cranial nerve
++ Specify I-XIT, if known:
+__ Ventricle
++ Specify lateral, third, fourth, cerebral aqueduct, if known:
+
+___ Brainstem
++ Specify midbrain, pons, or medulla, if known:
+___ Spine (vertebral column
++ Specify bony level (eg, C5, T2, L3), if known:
+___ Spinal cord
++ Specify bony level (eg, C5, T2, L3), if known:
++ Specify spinal location (eg, extradural, intradural-extramedullary,
+intramedullary, conus medullaris, filum terminale), if known:
+
+ 
+
+ 
+
+ 
+

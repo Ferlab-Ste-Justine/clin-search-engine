@@ -1,0 +1,75 @@
+7.Clinical history and additional information Question intracranial
+mass
+
+Begin Exam
+RIS BEGIN ALL
+
+Question Answer
+1. Script/Order reviewed on:
+2. Script/Order reviewed by:
+
+RIS METALLIC SCREENING
+
+Question Answer
+1. Patient metallic screening completed by:
+
+RIS CONTRAST SCREENING
+
+ 
+
+tion Answer
+1. Will the patient receive contrast for this exam ? No
+
+2. Patient contrast screening checklist completed by :
+
+3. Patient contrast screening checklist reviewed by:
+
+End Exam
+RIS END ALL
+
+Question Answer
+1. Confirm Resource:
+2. Confirm Pt Sedation Requirements
+
+Reviewed By List
+on 8:07 AM
+
+Procedure Screening Form
+Open Screening-Form
+
+ 
+
+ 
+
+ 
+
+J
+Order
+MR Entire Spine W/ IV Co (Accession 1 (Order
+NIL IV Contrast 1 (Accession
+
+Order Information
+
+Order Dats Service Start Date
+
+Oncology
+
+Order Providers
+
+Authorizing Billing
+
+Replaced: MR Brain W/O IV Contrast
+
+ 
+
+Original Order
+
+Ordered On Ordered By
+
+Page 4 of 5
+
+MR Brain W &
+(Order
+
+Start Time
+

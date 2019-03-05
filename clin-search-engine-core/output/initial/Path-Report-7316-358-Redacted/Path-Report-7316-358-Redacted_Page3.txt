@@ -1,0 +1,72 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we
+
+SYNOPTIC REPORT (Continued)
+___ Spinal nerve root(s)
++ Specify bony level (eg, C5, T2, L3), if known:
++ Specify location (eg, intradural, foramen), if known:
+____ Peripheral nerve
++ Specify site, if known:
+___ Ganglion
++ Specify site, if known:
+___ Other (specify):
+"Not specified
+
+Histologic Type and Grade (applicable World Health Organization [WHO]
+classification and grade) (select all that apply) (Note F, Note G)
+
+Astrocytic Tumors
+___ pilocytic astrocytoma (WHO grade I)
+_ Pilomyxoid astrocytoma (WHO grade II)
+Subependymal giant cell astrocytoma (WHO grade I)
+Pleomorphic xanthoastrocytoma (WHO grade II)
+___ Pleomorphic xanthoastrocytoma with anaplastic features (WHO grade not
+assigned)
+Diffuse astrocytoma (WHO grade II)
+Fibrillary astrocytoma (WHO grade II)
+Protoplasmic astrocytoma (WHO grade II)
+Gemistocytic astrocytoma (WHO grade II)
+Anaplastic astrocytoma (WHO grade III)
+Glioblastoma (WHO grade IV)
+Giant cell glioblastoma (WHO grade IV)
+Gliosarcoma (WHO grade IV)
+___ Gliomatosis cerebri (usually WHO grade III; diagnosis requires
+clinical-pathological correlation)
+___ Astrocytoma, not otherwise characterized (WHO grades I-IV)
+
+Oligodendroglial Tumors
+Oligodendroglioma (WHO grade II)
+Anaplastic oligodendroglioma (WHO grade III)
+
+Oligoastrocytic Tumors (mixed glioma)
+Oligoastrocytoma (WHO grade II)
+___ Anaplastic oligoastrocytoma (WHO grade III)
+
+Ependymal Tumors
+
+_ Subependymoma (WHO grade I)
+Myxopapillary ependymoma (WHO grade I)
+Ependymoma (WHO grade II)
+
+Cellular ependymoma (WHO grade IT)
+Papillary ependymoma (WHO grade II)
+Clear cell ependymoma (WHO grade II)
+Tanycytic ependymoma (WHO grade II)
+
+ 
+
+ 
+
+ 
+
+ 
+

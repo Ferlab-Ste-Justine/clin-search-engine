@@ -1,0 +1,95 @@
+ 
+
+ 
+
+-SYNOPTIC REPORT (Continued)
+
+Histologic Grade (WHO histologic grade) (Note G)
+___ Not applicable
+
+____ Cannot be determined
+
+WHO grade I
+
+WHO grade II
+
+____ WHO grade III
+
+WHO grade IV
+
+____ WHO grade not assigned
+
+____ Other (specify):
+
+ 
+
+ 
+
+Margins (for resections of malignant peripheral nerve sheath tumors only)
+(Note H)
+
+___ cannot be assessed
+
+___ Margins not involved by tumor
+
+__ Margins involved by tumor
+
++ Specify, if possible:
+
++ Ancillary Studies (select all that apply)
+
++ __ None performed
+
++ __X_ Immunohistochemistry (specify): ini-1 RETAINED, GFAP ENTRAPPED
+ASTROCYTES, NEUROFIL, SYNAPTOPHY +
+
+Electron microscopy
+
+Molecular genetic studies (specify): (Note J)
+1p deletion identified
+
+1p deletion not identified
+
+19q deletion identified
+
+__ 19q deletion not identified
+
+____X Other (specify):
+
+___ Other (specify):
+
+LETT
+
+ 
+
+EEE
+
++
+
+Additional Pathologic Findings
++ Specify: _
+
++ Comment (s) :
+
+MEDICAL HISTORY
+
+DOCTOR'S NAME:
+
+ 
+
+ 
+
+PRE-OP DX: BRAIN TUMOR
+
+POST-0P DX PENDING
+
+PROCEDURE CRANIOTOMY, BRAIN TUMOR
+
+HISTORY: ] MALE - BRAIN TUMOR; HERE FOR ABOVE PROCEDURE
+
+ 
+
+Sp
+
+ 
+
