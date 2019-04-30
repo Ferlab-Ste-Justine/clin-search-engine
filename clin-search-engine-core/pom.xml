@@ -21,6 +21,11 @@
 			<id>apache opennlp snapshot</id>
 			<url>https://repository.apache.org/content/repositories/snapshots/</url>
 		</repository>
+		<repository>
+			<id>sonatype</id>
+			<name>Sonatype Groups</name>
+			<url>https://oss.sonatype.org/content/groups/public/</url>
+		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
@@ -56,6 +61,31 @@
 			<artifactId>opennlp</artifactId>
 			<version>1.9.1</version>
 			<type>pom</type>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.supercsv</groupId>
+			<artifactId>super-csv</artifactId>
+			<version>2.4.0</version>
+		</dependency>
+
+		<!-- Libraries to generate Charts -->
+
+		<dependency>
+			<groupId>org.jfree</groupId>
+			<artifactId>jfreechart</artifactId>
+			<version>1.5.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jfree</groupId>
+			<artifactId>jcommon</artifactId>
+			<version>1.0.24</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jfree</groupId>
+			<artifactId>jfreesvg</artifactId>
+			<version>3.4</version>
 		</dependency>
 
 
@@ -112,8 +142,37 @@
 			<artifactId>spring-core</artifactId>
 			<version>5.1.5.RELEASE</version>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>5.1.6.RELEASE</version>
+		</dependency>
+
+		<!-- ELASTIC JEST CLIENT -->
+
+		<dependency>
+			<groupId>io.searchbox</groupId>
+			<artifactId>jest</artifactId>
+			<version>6.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>io.searchbox</groupId>
+			<artifactId>jest-common</artifactId>
+			<version>6.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-elasticsearch</artifactId>
+			<version>1.5.1.RELEASE</version>
+		</dependency>
 
 
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<version>2.1.4.RELEASE</version>
+			<scope>test</scope>
+		</dependency>
 
 
 	</dependencies>
